@@ -1,0 +1,16 @@
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.exe
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.deps.json
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.runtimeconfig.json
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.runtimeconfig.dev.json
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.dll
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\bin\Debug\net5.0\projeto Hello Word.pdb
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.csproj.AssemblyReference.cache
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.AssemblyInfoInputs.cache
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.AssemblyInfo.cs
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.csproj.CoreCompileInputs.cache
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.dll
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\refint\projeto Hello Word.dll
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.pdb
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\projeto Hello Word.genruntimeconfig.cache
+C:\Users\Generation\Documents\atividade C#\projeto Hello Word\projeto Hello Word\obj\Debug\net5.0\ref\projeto Hello Word.dll
